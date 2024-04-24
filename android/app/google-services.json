@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "188385311747",
+    "project_id": "fir-test-95e2e",
+    "storage_bucket": "fir-test-95e2e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188385311747:android:5fef9ddee535d06d222236",
+        "android_client_info": {
+          "package_name": "com.example.login_design"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQ3HNo0U3Ba3vrSzGKNeMKnMf-GtIZABw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
